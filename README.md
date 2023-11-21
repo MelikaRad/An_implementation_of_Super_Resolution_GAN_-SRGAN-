@@ -1,1 +1,1 @@
-# An_implementation_of_Super_Resolution_GAN_-SRGAN-
+# An implementation of Super Resolution GAN (SRGAN)
